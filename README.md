@@ -1,6 +1,6 @@
 # 19c RAC 설치
 
-# [1.구성 계획 & VM 설치](https://github.com/oraclejyp/19c_rac_inst/blob/4bfcc1caad3c8a77d3c9905a54a2e5049c8800f1/1.%EA%B5%AC%EC%84%B1%20%EA%B3%84%ED%9A%8D%20%26%20VM%20%EC%84%A4%EC%B9%98.md)
+# [1.구성 계획 & VM 설치](https://github.com/oraclejyp/19c_rac_inst/blob/881df4cd9a1701db1304810340bd2b897895fb35/1.%EA%B5%AC%EC%84%B1%20%EA%B3%84%ED%9A%8D%20%26%20VM%20%EC%84%A4%EC%B9%98.md)
 
 # [2.리눅스(OEL) 설치](https://github.com/oraclejyp/19c_rac_inst/blob/4bfcc1caad3c8a77d3c9905a54a2e5049c8800f1/2.%EB%A6%AC%EB%88%85%EC%8A%A4(OEL)%20%EC%84%A4%EC%B9%98.md)
 
